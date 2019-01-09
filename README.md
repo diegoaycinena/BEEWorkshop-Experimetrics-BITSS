@@ -2,7 +2,9 @@
 Resources for the workshop on dynamic documents at Universidad del Rosario
 
 
-##My code, is better than yours!
+##My code, is better than yours. 
+Oh burn!
+
 ---
 
 Please check back often for new and updated materials
